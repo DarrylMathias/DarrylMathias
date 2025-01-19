@@ -1,5 +1,3 @@
-# Darryl Mathias
-
 Welcome to my GitHub! I'm a **Computer Science Engineering student** at **Thadomal Shahani Engineering College**, with a passion for **programming, data structures, algorithms**, and **front-end development**. This repository showcases my projects and my journey of continuous learning.
 
 ## Table of Contents
