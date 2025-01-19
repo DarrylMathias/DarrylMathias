@@ -26,14 +26,14 @@ This repository highlights my projects related to **web development**, **AI**, a
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/darrylmathias/darrylmathias.github.io.git
+git clone https://darrylmathias.github.io/Portfolio/
 ```
 
 Open `index.html` to view the portfolio in your browser.
 
 ## Usage
 
-View the live version of my portfolio [here](https://darrylmathias.github.io/Darryl).
+View the live version of my portfolio [https://darrylmathias.github.io/Portfolio/](https://darrylmathias.github.io/Portfolio).
 
 ## Contributing
 
@@ -41,12 +41,12 @@ Feel free to fork this repository and contribute! Please submit a pull request w
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [https://github.com/DarrylMathias/Portfolio/blob/main/LICENSE](LICENSE) file for details.
 
 ## Contact
 
 - Email: [darrylnevmat@gmail.com](mailto:darrylnevmat@gmail.com)
-- LinkedIn: [Darryl Mathias](https://www.linkedin.com)
+- LinkedIn: [Darryl Mathias](https://www.linkedin.com/in/darryl-mathias-020241317/)
 
 <!--
 **DarrylMathias/DarrylMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
