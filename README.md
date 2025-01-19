@@ -33,7 +33,7 @@ Open `index.html` to view the portfolio in your browser.
 
 ## Usage
 
-View the live version of my portfolio [https://darrylmathias.github.io/Portfolio/](https://darrylmathias.github.io/Portfolio).
+View the live version of my portfolio [Link](https://darrylmathias.github.io/Portfolio).
 
 ## Contributing
 
@@ -41,7 +41,7 @@ Feel free to fork this repository and contribute! Please submit a pull request w
 
 ## License
 
-This project is licensed under the MIT License. See the [https://github.com/DarrylMathias/Portfolio/blob/main/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DarrylMathias/Portfolio/blob/main/LICENSE) file for details.
 
 ## Contact
 
