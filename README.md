@@ -1,4 +1,54 @@
-## Hi there 👋
+# Darryl Mathias
+
+Welcome to my GitHub! I'm a **Computer Science Engineering student** at **Thadomal Shahani Engineering College**, with a passion for **programming, data structures, algorithms**, and **front-end development**. This repository showcases my projects and my journey of continuous learning.
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Skills](#skills)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
+
+## Project Overview
+
+This repository highlights my projects related to **web development**, **AI**, and **algorithms**. It reflects my proficiency in **HTML**, **CSS**, **JavaScript**, and other technologies, combined with my strong interest in **Physics**, **Mathematics**, and **problem-solving**.
+
+## Skills
+
+- **Languages**: Java, C, C++, Python
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Version Control**: Git, GitHub
+- **UI / UX**: Figma
+
+## Installation
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/darrylmathias/darrylmathias.github.io.git
+```
+
+Open `index.html` to view the portfolio in your browser.
+
+## Usage
+
+View the live version of my portfolio [here](https://darrylmathias.github.io/Darryl).
+
+## Contributing
+
+Feel free to fork this repository and contribute! Please submit a pull request with a detailed description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- Email: [darrylnevmat@gmail.com](mailto:darrylnevmat@gmail.com)
+- LinkedIn: [Darryl Mathias](https://www.linkedin.com)
 
 <!--
 **DarrylMathias/DarrylMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
