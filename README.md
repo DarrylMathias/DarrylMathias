@@ -1,4 +1,5 @@
-Welcome to my GitHub! I'm a **Computer Science Engineering student** at **Thadomal Shahani Engineering College**, with a passion for **programming, data structures, algorithms**, and **front-end development**. This repository showcases my projects and my journey of continuous learning.
+Welcome to my GitHub! I'm a **Computer Engineering** student from **Thadomal Shahani Engineering College**. Technology enthusiast currently diving deep into **full-stack dev** and **competitive programming**. Obsessed with building and breaking cool stuff on the internet and solving problems. Enthusiastic learner driven by curiosity — especially in areas like quantum physics, cosmology, and high-performance cars.
+
 
 ## Table of Contents
 
@@ -12,53 +13,23 @@ Welcome to my GitHub! I'm a **Computer Science Engineering student** at **Thadom
 
 ## Project Overview
 
-This repository highlights my projects related to **web development**, **AI**, and **algorithms**. It reflects my proficiency in **HTML**, **CSS**, **JavaScript**, and other technologies, combined with my strong interest in **Physics**, **Mathematics**, and **problem-solving**.
+This repository highlights my projects related to **web development**, **algorithms**. It reflects my proficiency in **Next.js**, **MERN stack**, **JavaScript**, **Typescript** and other technologies, combined with my strong interest in , **Mathematics**, and **problem-solving**.
 
 ## Skills
 
-- **Languages**: Java, C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Languages**: C, C++, Python, Java, JavaScript, TypeScript
+- **Web Development**: Next.js, MongoDB, Express, React, Node.js, Firebase, Shadcn UI, Tailwind CSS, HTML, CSS, Bootstrap, Chakra UI, GSAP
 - **Version Control**: Git, GitHub
 - **UI / UX**: Figma
 
-## Installation
+## Website
 
-Clone this repository to your local machine:
-
-```bash
-git clone https://darrylmathias.github.io/Portfolio/
-```
-
-Open `index.html` to view the portfolio in your browser.
-
-## Usage
-
-View the live version of my portfolio [Link](https://darrylmathias.github.io/Portfolio).
-
-## Contributing
-
-Feel free to fork this repository and contribute! Please submit a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/DarrylMathias/Portfolio/blob/main/LICENSE) file for details.
+View the live version of my portfolio [Link](https://darrylmathias.vercel.app).
 
 ## Contact
 
-- Email: [darrylnevmat@gmail.com](mailto:darrylnevmat@gmail.com)
-- LinkedIn: [Darryl Mathias](https://www.linkedin.com/in/darryl-mathias-020241317/)
-
-<!--
-**DarrylMathias/DarrylMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email](mailto:darrylnevmat@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/darryl-mathias-020241317/)
+- [Github](https://github.com/DarrylMathias)
+- [Portfolio](https://darrylmathias.vercel.app)
+- [Leetcode](https://leetcode.com/darrylMathias/)
