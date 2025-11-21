@@ -25,7 +25,7 @@ View the live version of my portfolio [darrylmathias.vercel.app](https://darrylm
 [![](https://visitcount.itsvg.in/api?id=DarrylMathias&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darrylmathias) 
+[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@darrylnevillemathias)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
