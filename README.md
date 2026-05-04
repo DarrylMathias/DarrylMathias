@@ -24,7 +24,7 @@ View the live version of my portfolio [darrylmathias.vercel.app](https://darrylm
 ---
 [![](https://visitcount.itsvg.in/api?id=DarrylMathias&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you like any of my projects, feel free to support them!
 [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@darrylnevillemathias)
 
   
