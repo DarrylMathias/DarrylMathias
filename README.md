@@ -10,7 +10,7 @@ I'm a Computer Engineering student from Mumbai who enjoys building scalable back
   
 <br />
 
-## Socials
+# Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/darryl-mathias-020241317/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
@@ -34,7 +34,7 @@ I'm a Computer Engineering student from Mumbai who enjoys building scalable back
 </p>
 <br/>
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I'm a Computer Engineering student from Mumbai who enjoys building scalable back
 
 </div>
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
   <img
@@ -90,7 +90,7 @@ I'm a Computer Engineering student from Mumbai who enjoys building scalable back
 <br/>
 
 
-## Show Some Love
+# Show Some Love
 
 If you enjoy my projects, consider giving them a ⭐. It really helps and motivates me to build more open-source software.
 
@@ -99,7 +99,7 @@ If you'd like to support my work further, you can also buy me a coffee ☕
 [![Razorpay](https://img.shields.io/badge/Razorpay-Support%20My%20Work-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@darrylnevillemathias)
 <br /><br />
 
-## GitHub Stats and Views
+# GitHub Stats and Views
 <div align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/DarrylMathias?logo=github&style=for-the-badge&color=00d9ff&labelColor=000000&label=FOLLOWERS)
@@ -110,7 +110,7 @@ If you'd like to support my work further, you can also buy me a coffee ☕
 </div>
 <br/>
 
-## Acknowledgements
+# Acknowledgements
 
 This README was inspired by [Satyam Pandey's GitHub Profile](https://github.com/SatyamPandey-07). Special thanks to him!
 
