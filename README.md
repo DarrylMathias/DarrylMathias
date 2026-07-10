@@ -40,23 +40,19 @@ I'm a Computer Engineering student from Mumbai who enjoys building scalable back
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=golang,typescript,javascript,python,cpp,c&theme=dark&perline=6" />
-
-<br/><br/>
+<br/>
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,redis,prisma&theme=dark&perline=7" />
-
-<br/><br/>
+<br/>
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,tailwind,bootstrap,vite&theme=dark&perline=7" />
-
-<br/><br/>
+<br/>
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,aws,vercel,supabase,firebase,git,github,githubactions&theme=dark&perline=8" />
-
-<br/><br/>
+<br/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=npm,pnpm,bash,arch,linux,ubuntu&theme=dark&perline=6" />
