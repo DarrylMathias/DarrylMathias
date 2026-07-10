@@ -1,31 +1,117 @@
-# 💫 About Me:
-Welcome to my GitHub! I'm a Computer Engineering student from Thadomal Shahani Engineering College. Technology enthusiast currently diving deep into full-stack dev and competitive programming. Obsessed with building and breaking cool stuff on the internet and solving problems. Enthusiastic learner driven by curiosity — especially in areas like quantum physics, cosmology, and high-performance cars.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=80:0022d2,20:d89b00&text=Darryl%20Mathias&fontAlign=50&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=66&descAlign=50" width="100%"/>
 
+# Hello fam 👋, I'm Darryl!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darryl-mathias-020241317/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Darryl-Mathias-5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Spiritual-Banana1048/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCIgATHMupDeW4f-Q48ufrng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darrylnevmat@gmail.com) 
-
-# Website
-View the live version of my portfolio [darrylmathias.vercel.app](https://darrylmathias.vercel.app).
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarrylMathias&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DarrylMathias&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrylMathias&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DarrylMathias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=DarrylMathias&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 If you like any of my projects, feel free to support them!
-[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@darrylnevillemathias)
-
+I'm a Computer Engineering student from Mumbai who enjoys building scalable backend systems and cloud-native infrastructure.
+- 🔭 Currently working on **[Yoink](https://yoink.darrylmathias.tech)** — a distributed search engine written from scratch in Go.
+- 👯 I'm looking to collaborate on projects diving deep into backend engineering, distributed architectures and agentic AI .
+- 🌱 Currently exploring AI and core Machine Learning.
+- 🏎️ Always happy to talk about Formula 1, space tech, or anything backend.
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+## Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/darryl-mathias-020241317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DarrylMathias">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/darrylMathias/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/DamnthatsDarryl">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://darrylmathias.tech">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=golang,typescript,javascript,python,cpp,c&theme=dark&perline=6" />
+
+<br/><br/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,redis,prisma&theme=dark&perline=7" />
+
+<br/><br/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,tailwind,bootstrap,vite&theme=dark&perline=7" />
+
+<br/><br/>
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,supabase,firebase,git,github,githubactions&theme=dark&perline=8" />
+
+<br/><br/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=npm,pnpm,bash,arch,linux,ubuntu&theme=dark&perline=6" />
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DarrylMathias&theme=github-dark&border_radius=2"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</div>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarrylMathias&theme=github_dark" width="100%"/></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarrylMathias&theme=github_dark" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarrylMathias&theme=github_dark" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarrylMathias&theme=github_dark&utcOffset=8" width="100%" /></td>
+  </tr>
+</table>
+
+</div>
+<br/>
+
+
+## Show Some Love
+
+If you enjoy my projects, consider giving them a ⭐. It really helps and motivates me to build more open-source software.
+
+If you'd like to support my work further, you can also buy me a coffee ☕
+
+[![Razorpay](https://img.shields.io/badge/Razorpay-Support%20My%20Work-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@darrylnevillemathias)
+<br /><br />
+
+## GitHub Stats and Views
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/DarrylMathias?logo=github&style=for-the-badge&color=00d9ff&labelColor=000000&label=FOLLOWERS)
+&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/DarrylMathias?logo=github&style=for-the-badge&color=00ff41&labelColor=000000&label=STARS)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=DarrylMathias&style=for-the-badge&labelColor=000000&base=1000)
+</div>
+<br/>
+
+## Acknowledgements
+
+This README was inspired by [Satyam Pandey's GitHub Profile](https://github.com/SatyamPandey-07). Special thanks to him!
+
+![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
